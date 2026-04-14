@@ -1,0 +1,5 @@
+node_modules/
+.elasticbeanstalk/
+backend-hotel/
+.env
+*.log
